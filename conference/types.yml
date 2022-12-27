@@ -1,0 +1,21 @@
+---
+- name: Distributed Computing / Storage Systems
+  sub: DS
+- name: Computer Network
+  sub: NW
+- name: Network and Information Security
+  sub: SC
+- name: Software Engineering / System Software
+  sub: SE
+- name: Database / Data Mining / Content Retrieval
+  sub: DB
+- name: Computer Science Theory
+  sub: CT
+- name: Computer Vision and Multimedia
+  sub: CG
+- name: Artificial Intelligence
+  sub: AI
+- name: Human-Computer Interaction and Ubiquitous Computing
+  sub: HI
+- name: Mix / Emerging
+  sub: MX
